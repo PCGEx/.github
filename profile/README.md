@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nebukam/PCGExtendedToolkit/refs/heads/docs/_sources/smol-logo.png" alt="PCGEx Logo">
+  <img src="https://raw.githubusercontent.com/PCGEx/.github/refs/heads/main/assets/pcgex-logo.png" alt="PCGEx Logo">
 </p>
 <h1 align="center">PCGEx Ecosystem</h1>
 <p align="center">
@@ -30,6 +30,10 @@ Additional plugins extending the core with specialized features. Source-availabl
 > Note that PCGEx Pro is not available to the public yet.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PCGEx/.github/refs/heads/main/assets/pcgex-pro-logo.png" alt="PCGEx Logo">
+</p>
 
 ## PCGEx Pro Access
 

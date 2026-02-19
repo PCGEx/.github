@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PCGEx/.github/refs/heads/main/assets/pcgex-logo.png" alt="PCGEx Logo">
+  <img src="https://raw.githubusercontent.com/PCGEx/.github/refs/heads/main/assets/pcgex-pro-logo.png" alt="PCGEx Logo">
 </p>
-<h1 align="center">PCGEx Ecosystem</h1>
 <p align="center">
   Advanced procedural generation tools for Unreal Engine's PCG framework.<br>
   <a href="https://pcgex.gitbook.io/pcgex">Documentation</a> •
@@ -11,29 +10,6 @@
 </p>
 
 ---
-
-## What's here
-
-→ **[PCGEx](https://github.com/PCGEx/PCGExtendedToolkit)**  
-_The core plugin. 200+ nodes for graph theory, pathfinding, spatial queries, and more. Free and open source under the MIT license, always._
-
-→ **[PCGEx + Watabou](https://github.com/PCGEx/PCGExElementsWatabou)**  
-_Import procedural maps from Watabou's generators into PCGEx. Free and open source under the MIT license._
-
-### **PCGEx Pro**
-Additional plugins extending the core with specialized features. Source-available to registered customers (see below).  
-
-→ **[PCGEx + Valency](https://github.com/PCGEx/PCGExElementsValency)**  
-
-→ **[PCGEx + ZoneGraph](https://github.com/PCGEx/PCGExElementsZoneGraph)**  
-
-> Note that PCGEx Pro is not available to the public yet.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PCGEx/.github/refs/heads/main/assets/pcgex-pro-logo.png" alt="PCGEx Logo">
-</p>
 
 ## PCGEx Pro Access
 
@@ -47,4 +23,5 @@ Other licensing arrangements (studio licenses, source-only, etc.) are possible -
 ## License
 
 The core toolkit and free plugins are **MIT**.  
-Pro plugin repositories are source-available under a commercial license -- customers may read and modify the source for their own projects but may not redistribute it.
+Pro plugin repositories are source-available under a commercial license.  
+customers may read and modify the source for their own projects but may not redistribute it.

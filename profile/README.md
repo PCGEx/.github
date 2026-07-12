@@ -13,10 +13,10 @@
 
 ## PCGEx Pro Access
 
-Pro plugins are distributed through **[FAB](https://www.fab.com)**.  
+Pro plugins will be distributed through FAB at some point under a bundled PCGEx Pro plugin; 
 If you've purchased a Pro listing, reach out via a private message on [Discord](https://discord.gg/mde2vC5gbE) with your order details to get repository access.
 
-Other licensing arrangements (studio licenses, source-only, etc.) are possible -- just get in touch!
+Other licensing arrangements (cherry picking, studio licenses, etc.) are possible -- just get in touch!
 
 ---
 

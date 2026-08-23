@@ -19,8 +19,9 @@ If you've purchased a Pro listing, reach out via a private message on [Discord](
 Other licensing arrangements (cherry picking, studio licenses, etc.) are possible -- just get in touch!
 
 **Pro Addons:**
-- [PCGEx + ZoneGraph](https://github.com/PCGEx/PCGExElementsZoneGraph) (PCGExElementsZoneGraph)
+- [PCGEx + Cluster Sketch](https://github.com/PCGEx/PCGExElementsClustersSketch) (PCGExElementsClustersSketch)
 - [PCGEx + Valency](https://github.com/PCGEx/PCGExElementsValency) (PCGExElementsValency)
+- [PCGEx + ZoneGraph](https://github.com/PCGEx/PCGExElementsZoneGraph) (PCGExElementsZoneGraph)
 
 ---
 

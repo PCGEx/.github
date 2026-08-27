@@ -11,22 +11,20 @@
 
 ---
 
-## PCGEx Pro Access
+## PCGEx Pro
+
+→ [PCGEx Pro](https://pcgex.gitbook.io/pcgex/pro) home
 
 Pro plugins will be distributed through FAB at some point under a bundled PCGEx Pro plugin; 
 If you've purchased a Pro listing, reach out via a private message on [Discord](https://discord.gg/mde2vC5gbE) with your order details to get repository access.
 
-Other licensing arrangements (cherry picking, studio licenses, etc.) are possible -- just get in touch!
+Other licensing arrangements (cherry picking, studio licenses, etc.) are possible!
 
-**Pro Addons:**
-- [PCGEx + Cluster Sketch](https://github.com/PCGEx/PCGExElementsClustersSketch) (PCGExElementsClustersSketch)
-- [PCGEx + Valency](https://github.com/PCGEx/PCGExElementsValency) (PCGExElementsValency)
-- [PCGEx + ZoneGraph](https://github.com/PCGEx/PCGExElementsZoneGraph) (PCGExElementsZoneGraph)
+**Pro Addons:**  
+→ **[PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  
+→ **[PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency)  
+→ **[PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
 
----
+> Note : Those repos are private and access is managed through the org.   
+See [Source Access](https://pcgex.gitbook.io/pcgex/pro/trials-and-source-access) 
 
-## License
-
-The core toolkit and free plugins are **MIT**.  
-Pro plugin repositories are source-available under a commercial license.  
-customers may read and modify the source for their own projects but may not redistribute it.

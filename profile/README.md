@@ -11,12 +11,10 @@
 
 ---
 
-## PCGEx Pro
+## [PCGEx Pro](https://pcgex.gitbook.io/pcgex/pro)
 
-→ [PCGEx Pro](https://pcgex.gitbook.io/pcgex/pro) home
-
-Pro plugins will be distributed through FAB at some point under a bundled PCGEx Pro plugin; 
-If you've purchased a Pro listing, reach out via a private message on [Discord](https://discord.gg/mde2vC5gbE) with your order details to get repository access.
+Pro plugins will be distributed through FAB soon under a bundled PCGEx Pro plugin; 
+If you've purchased a Pro listing, reach out via a DM on [Discord](https://discord.gg/mde2vC5gbE) with your **order ID** & **github username** to get repository access.
 
 Other licensing arrangements (cherry picking, studio licenses, etc.) are possible!
 

@@ -19,7 +19,7 @@ If you've purchased a Pro listing, reach out via a DM on [Discord](https://disco
 > Other [licensing](https://pcgex.gitbook.io/pcgex/pro/licensing) arrangements (cherry picking, studio licenses, etc.) are possible.
 
 **Pro Addons:**  
-→ **[PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  
+→ **[PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
 → **[PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency)  
-→ **[PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
+→ **[PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  
 

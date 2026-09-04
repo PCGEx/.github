@@ -19,7 +19,18 @@ If you've purchased a Pro listing, reach out via a DM on [Discord](https://disco
 > Other [licensing](https://pcgex.gitbook.io/pcgex/pro/licensing) arrangements (cherry picking, studio licenses, etc.) are possible.
 
 **Pro Addons:**  
-→ **[PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
-→ **[PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency)  
-→ **[PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  
+**→ [PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
+**→ [PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency) `•  Constraint solving & WFC`  
+**→ [PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch) `•  Handcraft cluster data`  
 
+---
+
+## [Essentials](https://pcgex.gitbook.io/pcgex/essentials)
+
+Essentials are **small, free & lightweight** PCG plugins that don't depend on PCGEx code but complement the PCG ecosystem in their own special way.
+
+**→ [PCGEx | Ramps](https://pcgex.gitbook.io/pcgex/essentials/tools/ramps)**  •  [Git](https://github.com/PCGEx/PCGExRamps) `•  Inline curve params`  
+**→ [PCGEx | Scheduling Policies](https://pcgex.gitbook.io/pcgex/essentials/tools/scheduling-policies)**  •  [Git](https://github.com/PCGEx/PCGExSchedulingPolicies) `•  Exotic runtime scheduling policies`  
+**→ [PCGEx | Assistant](https://pcgex.gitbook.io/pcgex/essentials/tools/assistant)** `•  AI Assistant/toolset for 5.8+`  
+**→ [Kweave GPU HLSL Editor](https://pcgex.gitbook.io/pcgex/kweave)** `•  Web-based HLSL editor for PCG GPU nodes`  
+**→ [Grammit](https://pcgex.github.io/grammit/#example)** `•  Small grammar helper/previz`   

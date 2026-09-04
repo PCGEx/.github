@@ -32,5 +32,5 @@ Essentials are **small, free & lightweight** PCG plugins that don't depend on PC
 **→ [PCGEx | Ramps](https://pcgex.gitbook.io/pcgex/essentials/tools/ramps)**  •  [Git](https://github.com/PCGEx/PCGExRamps) `•  Inline curve params`  
 **→ [PCGEx | Scheduling Policies](https://pcgex.gitbook.io/pcgex/essentials/tools/scheduling-policies)**  •  [Git](https://github.com/PCGEx/PCGExSchedulingPolicies) `•  Exotic runtime scheduling policies`  
 **→ [PCGEx | Assistant](https://pcgex.gitbook.io/pcgex/essentials/tools/assistant)** `•  AI Assistant/toolset for 5.8+`  
-**→ [Kweave GPU HLSL Editor](https://pcgex.gitbook.io/pcgex/kweave)** `•  Web-based HLSL editor for PCG GPU nodes`  
-**→ [Grammit](https://pcgex.github.io/grammit/#example)** `•  Small grammar helper/previz`   
+**→ [Kweave](https://pcgex.gitbook.io/pcgex/kweave)** `•  Web-based HLSL editor for PCG GPU nodes`  
+**→ [Grammit!](https://pcgex.github.io/grammit/#example)** `•  Small grammar helper/previz`   

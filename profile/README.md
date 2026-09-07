@@ -13,7 +13,7 @@
 
 ## [PCGEx Pro](https://pcgex.gitbook.io/pcgex/pro)
 
-Pro plugins will be distributed through FAB soon under a bundled PCGEx Pro plugin; 
+Pro plugins are distributed through [FAB](https://www.fab.com/listings/bae800db-5f45-488c-8e3f-47b78caea742) as a single .uplugin bundle; 
 If you've purchased a Pro listing, reach out via a DM on [Discord](https://discord.gg/mde2vC5gbE) with your **order ID** & **github username** to get repository access.  
 
 > Other [licensing](https://pcgex.gitbook.io/pcgex/pro/licensing) arrangements (cherry picking, studio licenses, etc.) are possible.

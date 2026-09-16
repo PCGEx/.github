@@ -30,6 +30,7 @@ If you've purchased a Pro listing, reach out via a DM on [Discord](https://disco
 Essentials are **small, free & lightweight** PCG plugins that don't depend on PCGEx code but complement the PCG ecosystem in their own special way.
 
 **→ [PCGEx | Ramps](https://pcgex.gitbook.io/pcgex/essentials/tools/ramps)**  •  [Git](https://github.com/PCGEx/PCGExRamps) `•  Inline curve params`  
+**→ [PCGEx | Inline Settings](https://pcgex.gitbook.io/pcgex/essentials/tools/inline-settings)**  •  [Git](https://github.com/PCGEx/PCGExInlineSettings) `•  Inline any PCG node as graph params`  
 **→ [PCGEx | Scheduling Policies](https://pcgex.gitbook.io/pcgex/essentials/tools/scheduling-policies)**  •  [Git](https://github.com/PCGEx/PCGExSchedulingPolicies) `•  Exotic runtime scheduling policies`  
 **→ [PCGEx | Assistant](https://pcgex.gitbook.io/pcgex/essentials/tools/assistant)** `•  AI Assistant/toolset for 5.8+`  
 **→ [Kweave](https://pcgex.gitbook.io/pcgex/kweave)** `•  Web-based HLSL editor for PCG GPU nodes`  

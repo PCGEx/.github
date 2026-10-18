@@ -9,7 +9,12 @@
   <a href="https://www.patreon.com/c/pcgex">Patreon</a>
 </p>
 
+
 ---
+
+## **PCGEx**
+→ **[PCGEx](https://pcgex.gitbook.io/pcgex/)**  •  [Git](https://github.com/PCGEx/PCGExtendedToolkit)  •  [Toolset](https://github.com/PCGEx/PCGExToolset) `•  Core Plugin`    
+**→ [PCGEx | Assistant](https://pcgex.gitbook.io/pcgex/ai/working-with-an-agent/pcgex-assistant)**  •  [Git](https://github.com/PCGEx/PCGExAssistant) `•  AI Assistant/toolset for 5.8+`  
 
 ## [PCGEx Pro](https://pcgex.gitbook.io/pcgex/pro)
 
@@ -20,8 +25,8 @@ If you've purchased a Pro listing, reach out via a DM on [Discord](https://disco
 
 **Pro Addons:**  
 **→ [PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
-**→ [PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency) `•  Constraint solving & WFC`  
-**→ [PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch) `•  Handcraft cluster data`  
+**→ [PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency)  •  [Toolset](https://github.com/PCGEx/PCGExToolsetValency) `•  Constraint solving & WFC`  
+**→ [PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  •  [Toolset](https://github.com/PCGEx/PCGExToolsetClusterSketch) `•  Handcraft cluster data`  
 
 ---
 
@@ -32,6 +37,5 @@ Essentials are **small, free & lightweight** PCG plugins that don't depend on PC
 **→ [PCGEx | Ramps](https://pcgex.gitbook.io/pcgex/essentials/tools/ramps)**  •  [Git](https://github.com/PCGEx/PCGExRamps) `•  Inline curve params`  
 **→ [PCGEx | Inline Settings](https://pcgex.gitbook.io/pcgex/essentials/tools/inline-settings)**  •  [Git](https://github.com/PCGEx/PCGExInlineSettings) `•  Inline any PCG node as graph params`  
 **→ [PCGEx | Scheduling Policies](https://pcgex.gitbook.io/pcgex/essentials/tools/scheduling-policies)**  •  [Git](https://github.com/PCGEx/PCGExSchedulingPolicies) `•  Exotic runtime scheduling policies`  
-**→ [PCGEx | Assistant](https://pcgex.gitbook.io/pcgex/essentials/tools/assistant)** `•  AI Assistant/toolset for 5.8+`  
 **→ [Kweave](https://pcgex.gitbook.io/pcgex/kweave)** `•  Web-based HLSL editor for PCG GPU nodes`  
 **→ [Grammit!](https://pcgex.github.io/grammit/#example)** `•  Small grammar helper/previz`   

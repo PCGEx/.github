@@ -27,6 +27,7 @@ If you've purchased a Pro listing, reach out via a DM on [Discord](https://disco
 **→ [PCGEx + ZoneGraph](https://pcgex.gitbook.io/pcgex/zone-graph)**  •  [Git](https://github.com/PCGEx/PCGExElementsZoneGraph)  
 **→ [PCGEx + Valency](https://pcgex.gitbook.io/pcgex/valency)**  •  [Git](https://github.com/PCGEx/PCGExElementsValency)  •  [Toolset](https://github.com/PCGEx/PCGExToolsetValency) `•  Constraint solving & WFC`  
 **→ [PCGEx + Cluster Sketch](https://pcgex.gitbook.io/pcgex/cluster-sketch)**  •  [Git](https://github.com/PCGEx/PCGExElementsClustersSketch)  •  [Toolset](https://github.com/PCGEx/PCGExToolsetClusterSketch) `•  Handcraft cluster data`  
+**→ [PCGEx + Landscape](https://pcgex.gitbook.io/pcgex/pcgex-+-landscape)**  •  [Git](https://github.com/PCGEx/PCGExElementsLandscape)  `•  Modify landscape from PCG`  
 
 ---
 
